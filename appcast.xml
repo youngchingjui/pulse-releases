@@ -3,15 +3,14 @@
   <channel>
     <title>Pulse Updates</title>
     <item>
-      <title>Version 0.0.6</title>
-      <sparkle:version>0.0.6</sparkle:version>
-      <sparkle:shortVersionString>0.0.6</sparkle:shortVersionString>
-      <pubDate>Fri, 03 Apr 2026 23:56:11 +0800</pubDate>
+      <title>Version 0.0.7</title>
+      <sparkle:version>0.0.7</sparkle:version>
+      <sparkle:shortVersionString>0.0.7</sparkle:shortVersionString>
+      <pubDate>Sat, 04 Apr 2026 00:02:43 +0800</pubDate>
       <enclosure
-        url="https://github.com/youngchingjui/pulse-releases/releases/download/v0.0.6/Pulse.app.zip"
-        length="5268924"
+        url="https://github.com/youngchingjui/pulse-releases/releases/download/v0.0.7/Pulse.app.zip"
         type="application/octet-stream"
-        sparkle:edSignature="aouOV3QVjmxJxOA5Jks6XuWsiiTbexqLkSSc8KdaHIJf7T5YPJfEoD6CaTy24oIfNi7jmMrvXtZuoZfN0iLdBw==" length="5268924"
+        sparkle:edSignature="a0qNM/xMcpA+H4pQYCyPqsMqIrYUT7ZvhvQO307eD8APU5pi3WXwCYsvDxDMoZ9lGou6WYW3FCAWFna+6sPVCg==" length="5268925"
       />
     </item>
   </channel>
