@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Pulse Updates</title>
+    <item>
+      <title>Version 0.0.5</title>
+      <sparkle:version>0.0.5</sparkle:version>
+      <sparkle:shortVersionString>0.0.5</sparkle:shortVersionString>
+      <pubDate>Fri, 03 Apr 2026 22:00:19 +0800</pubDate>
+      <enclosure
+        url="https://github.com/youngchingjui/pulse-releases/releases/download/v0.0.5/Pulse.app.zip"
+        length="5268924"
+        type="application/octet-stream"
+        sparkle:edSignature="qRdyyl1cdX3cZi37i57E8B4xY0bLJygauWgknRVtj4PycMt+CBrA8y5X7FEN7eF8QkLaw7nL36kso7LxVvcnAQ==" length="5268924"
+      />
+    </item>
+  </channel>
+</rss>
